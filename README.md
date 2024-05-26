@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc Luis Bardaje</h1>
 <h3 align="center">A passionate person when it comes to Computer, Gaming and Programming(Game Developer)</h3>
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZwOXk3eHhlZmFodTlucTE5NzJyZWl2MWpmenJ3M3F1Z3MxcXY1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif
+
+https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif
 
 - 🔭 I’m currently working on **Unity Projects**
 
