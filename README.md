@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ERP Projects**
 
-- 🌱 I’m currently learning **Odoo Development and other CRM Tools**
+- 🌱 I’m currently learning **Python Programming and other CRM Tools**
 
 - 👯 I’m looking to collaborate on **Projects**
 
