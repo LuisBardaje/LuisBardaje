@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="200" src= "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on **ERP Projects**
+- 🔭 I’m currently working on **Different Projects**
 
 - 🌱 I’m currently learning **Python Programming and other CRM Tools**
 
